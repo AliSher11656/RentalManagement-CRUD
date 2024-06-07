@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+    <persistence-unit name="default">
+        <class>com.techno.publishingnew.bean.Items</class>
+        <class>com.techno.publishingnew.bean.Users</class>
+        <class>com.techno.publishingnew.bean.UsersRentedItems</class>
+        <class>com.techno.publishingnew.bean.UsersRequestedItems</class>
+        <properties>
+            <property name="hibernate.connection.url" value="jdbc:mysql://localhost:3306/online_rental_management_system_db"/>
+            <property name="hibernate.connection.driver_class" value="com.mysql.cj.jdbc.Driver"/>
+            <property name="hibernate.connection.username" value="admin"/>
+        </properties>
+    </persistence-unit>
+
+</persistence>
