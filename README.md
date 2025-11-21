@@ -30,7 +30,7 @@ Open the project in any Java IDE.
 
 Run Main.java.
 
-Future Improvements
+## Future Improvements
 Add JavaFX or Swing GUI
 
 Connect to MySQL or PostgreSQL
@@ -39,5 +39,5 @@ Add search and filter options
 
 Add authentication system
 
-License
+## License
 Free to use for learning and development.
