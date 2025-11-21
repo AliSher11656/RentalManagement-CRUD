@@ -14,13 +14,6 @@ This is a simple Rental Management System built in Java, implementing full Creat
 - Java (Core Java, OOP)
 - Console-based UI
 
-## Project Structure
-src/
-├── models/ # Entity classes
-├── services/ # CRUD logic
-├── controllers/ # Menu and user interaction
-└── Main.java # Entry point
-
 
 ## How to Run
 1. Clone the repository:
